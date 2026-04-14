@@ -8,3 +8,4 @@ This is the repo for noting my learning journey. I gonna write each concept in d
 6. [Odd or Even](./odd-even/README.md)
 7. [Vowels](./vowels/README.md)
 8. [Largest number (Largest of three numbers)](./largest-num/README.md)
+9. [Sum of N  numbers](./sum-of-n-numbers/README.md)
