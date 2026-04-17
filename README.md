@@ -11,3 +11,4 @@ This is the repo for noting my learning journey. I gonna write each concept in d
 9. [Sum of N  numbers](./sum-of-n-numbers/README.md)
 10. [Alphabets](./alphabets/README.md)
 11. [Leap year](./leap-year/README.md)
+12. [Factorial](./factorial/README.md)
